@@ -1,0 +1,21 @@
+{
+  "short_name": "IPTV Pro",
+  "name": "IPTV Pro Brasil",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/0f172a/3b82f6?text=IPTV&font=roboto",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/0f172a/3b82f6?text=IPTV&font=roboto",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0d1117",
+  "background_color": "#0d1117",
+  "orientation": "any"
+}
